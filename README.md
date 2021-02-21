@@ -1,5 +1,6 @@
 # portfolio-avinesh
-./website.jpg
+![alt text](https://github.com/avinesh2101/portfolio-avinesh/blob/master/website.jpg?raw=true)
+
 I am still working on this when i feel its ready i will open source it
 New features i am adding---
 updating introduction directly from linkedin
