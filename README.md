@@ -11,7 +11,7 @@ technologies used:
 React ,graphql,apollo-boost,react-twitter-embed,react-easy-emoji,react-headroom,color-thief
 
 
-illustrartions by 
+### illustrartions by 
 Aleksei Mozgovets  -octopus,
 Vaishak Shetty K   -smily,
 Denys Zavalii    -cat,
