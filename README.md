@@ -1,4 +1,5 @@
 # portfolio-avinesh
+./website.jpg
 I am still working on this when i feel its ready i will open source it
 New features i am adding---
 updating introduction directly from linkedin
@@ -16,7 +17,7 @@ Vaishak Shetty K   -smily,
 Denys Zavalii    -cat,
 LifeSigner      -man with design tshirt,
 
-##Getting Started with Create React App
+#Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
 Available Scripts
