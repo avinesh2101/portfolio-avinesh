@@ -1,9 +1,8 @@
 # portfolio-avinesh
 ![alt text](https://github.com/avinesh2101/portfolio-avinesh/blob/master/website.jpg?raw=true)
 
-I am still working on this when i feel its ready i will open source it
-New features i am adding---
-updating introduction directly from linkedin
+I am still working on this and adding some cool features like
+updating introduction directly from linkedin about,
 making an admin login option to make live changes in blogs and project section
 
 
