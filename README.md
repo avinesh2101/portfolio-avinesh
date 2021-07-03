@@ -1,5 +1,5 @@
-# portfolio-avinesh
-![alt text](https://github.com/avinesh2101/portfolio-avinesh/blob/master/website.jpg?raw=true)
+# portfolio-avinesh(https://avineshpandey.netlify.app/)
+![preview of my portfolio](https://github.com/avinesh2101/portfolio-avinesh/blob/master/website.jpg?raw=true)
 
 I am still working on this and adding some cool features like
 updating introduction directly from linkedin about,
